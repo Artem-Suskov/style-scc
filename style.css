@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color:aliceblue;  
+border: 10px solid green ;  
+border-radius: 1px;
+padding: 5px;
+}
+header a {
+   color:red;
+   border-radius: 10px;
+   border: 10px;
+}
+main h1{
+    text-align: center;
+    color: brown;
+}
+footer{
+    color:green;
+    font-size: 20px;
+}
+footer p {
+    border: 5px;
+    padding: 10px;
+   
+}
+nav {
+border: 5px solid red;
+}
+nav a { 
+color: rgb(2, 255, 255);
+font-size: 30px;
+}
+.prod p{
+    background-color: blueviolet;
+    padding: 5px;
+    font-weight: bold;
+}
+#discount{
+    color: mediumseagreen;
+   background-color: rgb(128, 65, 65);
+
+    }
+    #delivery{
+        color: forestgreen;
+        background-color: violet;
+    }
+    #contacts{
+        color: red;
+        background-color: cadetblue;
+    }
